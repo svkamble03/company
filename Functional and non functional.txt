@@ -1,0 +1,24 @@
+Functional Requirement:
+1)The software automatically validates customers against the ABC Contact Management System
+2)The software system should be integrated with banking API
+3)The imformation should be the accessible upto employee only 
+
+
+
+Non Functional Requirement :
+
+1)Reliability:
+   Create a requirement that data created in the system will be retained for a number of years without the data being changed by the system.It’s a 
+  good idea to also include requirements that make it easier to monitor system performance.
+
+2)Performance:
+    What should system response times be, as measured from any point, under what circumstances? Are there specific peak times when the load on the 
+  system will be unusually high?Think of stress periods, for example, at the end of the month or in conjunction with payroll disbursement.
+
+3)Supportability:
+   The system needs to be cost-effective to maintain.Maintainability requirements may cover diverse levels of documentation, such as system 
+  documentation, as well as test documentation, e.g. which test cases and test plans will accompany the system.
+
+4)Security :
+   Privacy of information, the export of restricted technologies, intellectual property rights, etc. should be audited.
+

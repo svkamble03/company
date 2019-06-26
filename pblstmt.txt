@@ -1,0 +1,12 @@
+Contoso is a multinational company having 12 offices all over world.
+Company wants to build and host the website for all employees.
+This website will allow employee to access Corporate Customers Accounting related information.
+The company wants this infortion System in the public cloude Google cloude Platform.
+But the main challange is to getting the information related to the Corporate Customer Accounting .
+To maintain this we need the account related information.
+For this we need the whats the requirement and we need to see what customers finantial need is.
+While devloping this webside there may so many ups and downs will be occures.
+such as some time the some imformation may be get wrong.
+some time some customers record was not present on the website.
+As there is total 12 branches of the company its quite difficult to maintain this website for all the branches.
+ 
