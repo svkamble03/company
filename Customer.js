@@ -18,7 +18,7 @@ var CustController=function(req,res){
 
 app.get('/customer',CustController);
 
-var server=app.listen(7000,function(){
+var server=app.listen(7070,function(){
 	var host=server.address().address
 	var port=server.address().port
 })
